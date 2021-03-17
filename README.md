@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Adamteh
 - 👀 I’m interested in Cross Platform Mobile Application Development with Flutter
-- 🌱 I’m currently learning Flutter
+- 🌱 I have been learning Flutter
 - 💞️ I’m looking to collaborate on Flutter
 - 📫 How to reach me nsiahadam14@gmail.com
 
