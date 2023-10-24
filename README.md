@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Adam Nsiah</h1>
-<h3 align="center">A Passionate Mobile Engineer From Ghana</h3>
+<h1 align="left">Hi 👋, I'm Adam Nsiah</h1>
+<h3 align="left">A Passionate Mobile Engineer</h3>
 
 - 🔭 I’m currently working on **Velociti, Pebble, Nokofio**
 
