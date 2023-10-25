@@ -26,4 +26,4 @@
 
 <p><a href="http://www.github.com/adamteh"><img src="https://github-readme-activity-graph.vercel.app/graph?username=adamteh&bg_color=1c1917&color=ffffff&line=04b4ac&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamteh&size_weight=0.5&count_weight=0.5&layout=donut-vertical&bg_color=1c1917&text_color=ffffff&title_color=ffffff)](https://github.com/adamteh)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamteh&size_weight=0.5&count_weight=0.5&layout=donut-vertical&bg_color=1c1917&text_color=ffffff&title_color=ffffff&hide_border=true)](https://github.com/adamteh)
