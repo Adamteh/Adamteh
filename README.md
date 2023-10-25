@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on **Velociti, Pebble, Nokofio**
 
-- 👯 I’m looking to collaborate on **Flutter**
-
-- 👨‍💻 All of my projects are available at [https://adamteh.github.io](https://adamteh.github.io)
+- 👨‍💻 Explore my portfolio at [https://adamteh.github.io](https://adamteh.github.io)
 
 - 💬 Ask me about **Flutter**
 
@@ -13,9 +11,12 @@
 
 - 📄 Know about my experiences [https://adamteh.github.io](https://adamteh.github.io)
 
+- 👯 I’m looking to collaborate on **Flutter**
+
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/adam-nsiah-543179170" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adam-nsiah-543179170" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/adamnsiah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adam-nsiah-543179170" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
