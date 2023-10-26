@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Adam Nsiah</h1>
 <h3 align="left">A Passionate Mobile Engineer</h3>
 
-- 🔭 I’m currently working on **Velociti, Pebble, Nokofio**
+- 🔭 I’m currently working on **[Velociti](https://play.google.com/store/apps/details?id=com.agrocenta.velocitifieldapp), [Pebble](https://trypebble.com), [Nokofio](https://nokofio.me/)**
 
 - 👨‍💻 Explore my portfolio at [https://adamteh.github.io](https://adamteh.github.io)
 
